@@ -30,10 +30,10 @@ Showcase:
 - 
 ![ad_menu](https://github.com/heyitsmelody/EDG-Job-Adverts-QB-core-ESX/assets/155805594/726fc326-1aef-4d81-b026-20e9b4f5d657)
 
-- Use text where ever you want to design it to your preference
+-Use text where ever you want to design it to your preference
 
 
--after Submit players will see
+- after Submit players will see
 
 ![ad_sended](https://github.com/heyitsmelody/EDG-Job-Adverts-QB-core-ESX/assets/155805594/2b88e95a-277d-4b66-b13d-4b41488bc929)
 
