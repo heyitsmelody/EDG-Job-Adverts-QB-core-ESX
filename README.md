@@ -26,8 +26,8 @@ use /ad to open the menu
 
 Showcase:
 
-- Create ad menu -
-- 
+- Create ad menu 
+  
 ![ad_menu](https://github.com/heyitsmelody/EDG-Job-Adverts-QB-core-ESX/assets/155805594/726fc326-1aef-4d81-b026-20e9b4f5d657)
 
 -Use text where ever you want to design it to your preference
