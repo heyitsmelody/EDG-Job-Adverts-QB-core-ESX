@@ -18,7 +18,7 @@ alot of preconfigured jobs, every job has theyre own background image. add as ma
 everything configurable in the config file.
 
 
--How to use-
+- How to use
   
 Whitelist the Job in the config.
 use /ad to open the menu
