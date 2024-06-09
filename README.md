@@ -14,6 +14,7 @@ This script allows you to give jobs permission to send adverts/announces for the
 Included preview feature while typing the text for perfection.
 Also this script includes a door bell feature, where you can set locations so the jobs get notified if someone rings the bell,
 
+alot of preconfigured jobs, every job has theyre own background image. add as many as you want,
 everything configurable in the config file.
 
 
